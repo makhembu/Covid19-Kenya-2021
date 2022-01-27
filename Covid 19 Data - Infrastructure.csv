@@ -1,0 +1,60 @@
+County,ICU Beds,,County,Total Beds ,,County,Number of Isolation center,,,County,Total HDU Beds,,County,Beds with oxygen,,County,Concentrators,,County,Cylinders,,County,Functional PSA Oxygen Plants,,County,"Number of non-functional PSA oxygen plants"
+Nairobi,128,,Kiambu,1038,,Machakos,24,,,Kisumu,40,,Kiambu,812,,Turkana,60,,Siaya,300,,Kiambu,3,,Kericho,1
+Kiambu,40,,Nairobi,714,,Nairobi,24,,,Uasin Gisu,31,,Kisii,600,,Laikipia,57,,Kiambu,210,,Kisii,3,,Kirinyaga,1
+Uasin Gishu,39,,Machakos,575,,Uasin Gishu,15,,,Laikipia,18,,Bomet,230,,Kitui,50,,Embu,200,,Mandera,3,,Kitui,1
+Murang'a,35,,Bungoma,350,,Nakuru,11,,,Makueni,18,,Kajiado,220,,Mandera,50,,Kajiado,188,,Bomet,2,,Marsabit,1
+Mandera,16,,Tharaka-Nithi,345,,Kajiado,10,,,Embu,16,,Nyandarua,198,,Kiambu,47,,Laikipia,123,,Embu,2,,Nairobi,1
+Mombasa,16,,Embu,340,,Tharaka-Nithi,10,,,Kericho,13,,Embu,139,,Kilifi,34,,Bungoma,100,,Isiolo,2,,Nandi,1
+Kisii,15,,Laikipia,324,,Garissa,9,,,Machakos,9,,Siaya,125,,Elgeyo-Marakwet,30,,Kilifi,95,,Kakamega,2,,Nyeri,1
+Tharaka-Nithi,14,,Kisii,310,,Homabay,9,,,Baringo,8,,Meru,111,,Kajiado,30,,Meru,90,,Laikipia,2,,Wajir,1
+Bungoma,13,,Siaya,310,,Isiolo,9,,,Kajiado,8,,Elgeyo-Marakwet,100,,Vihiga,30,,Taita Taveta,90,,Meru,2,,Bungoma,0
+Embu,12,,Garissa,308,,Embu,7,,,Nandi,7,,Kericho,100,,Bomet,28,,Kitui,85,,Nyandarua,2,,Busia,0
+Homabay,10,,Kericho,308,,Nyamira,6,,,Isiolo,6,,Isiolo,95,,Siaya,22,,Nakuru,80,,Nyeri,2,,Garissa,0
+Kericho,10,,Mandera,306,,Nyandarua,6,,,Nakuru,6,,Turkana,80,,Homa Bay,20,,Kirinyaga,70,,Tharaka-Nithi,2,,Isiolo,0
+Nakuru,10,,Mombasa,306,,Bungoma,5,,,Wajir,6,,Nakuru,72,,Isiolo,20,,Mandera,70,,Turkana,2,,Kajiado,0
+Baringo,8,,Homabay,305,,Elgeyo-Marakwet,5,,,Bomet,5,,Tharaka-Nithi,68,,Kwale,20,,West Pokot,68,,Busia,1,,Kiambu,0
+Migori,8,,Bomet,304,,Kericho,5,,,Mandera,5,,West Pokot,66,,Narok,20,,Kwale,65,,Kisumu,1,,Kisii,0
+Nandi,8,,Migori,300,,Kilifi,5,,,Mombasa,5,,Kitui,64,,Nyamira,20,,Murang'a,60,,Kwale,1,,Laikipia,0
+Isiolo,7,,Narok,300,,Bomet,4,,,Garissa,4,,Mandera,60,,Marsabit,16,,Turkana,59,,Machakos,1,,Makueni,0
+Kilifi,7,,Nandi,290,,Kirinyaga,4,,,Kisii,4,,Mombasa,55,,Meru,15,,Nyandarua,56,,Makueni,1,,Mandera,0
+Laikipia,7,,Uasin Gishu,273,,Nandi,4,,,Kiambu,3,,Taita Taveta,46,,Nyandarua,14,,Busia,50,,Murang'a,1,,Murang'a,0
+Nyandarua,7,,Vihiga,250,,Vihiga,4,,,Kwale,3,,Kakamega,45,,Kakamega,12,,Elgeyo-Marakwet,50,,Nakuru,1,,Nakuru,0
+Kwale,6,,Nakuru,232,,Kitui,3,,,Narok,3,,Laikipia,40,,Tana River,12,,Homa Bay,50,,Narok,1,,Nyamira,0
+Marsabit,6,,Busia,200,,Mandera,3,,,Turkana,3,,Murang'a,35,,Samburu,11,,Kakamega,50,,Nyamira,1,,Samburu,0
+Narok,6,,Elgeyo-Marakwet,150,,Marsabit,3,,,Bungoma,2,,Nyeri,35,,Busia,10,,Tharaka-Nithi,45,,Siaya,1,,Tana River,0
+Siaya,6,,Nyandarua,140,,Mombasa,3,,,Nairobi,2,,Kisumu,20,,Embu,10,,Lamu,43,,Trans Nzoia,1,,Uasin Gishu,0
+Tana River,6,,Nyamira,122,,Murang'a,3,,,Nyeri,2,,Machakos,20,,Kisii,10,,Kericho,42,,Vihiga,1,,West Pokot,0
+Wajir,6,,Nyeri,119,,Nyeri,3,,,Samburu,2,,Busia,18,,Nandi,10,,Bomet,40,,West Pokot,1,,,
+Bomet,5,,Isiolo,103,,Samburu,3,,,Busia,0,,Kilifi,18,,Nyeri,10,,Samburu,40,,Baringo,0,,,
+Elgeyo-Marakwet,5,,Kisumu,100,,Siaya,3,,,Elgeyo-Marakwet,0,,Makueni,18,,Tharaka-Nithi,10,,Tana River,39,,Bungoma,0,,,
+Kajiado,5,,Wajir,95,,Turkana,3,,,Kakamega,0,,Baringo,14,,Lamu,7,,Isiolo,38,,Elgeyo-Marakwet,0,,,
+Kirinyaga,5,,Kilifi,90,,Baringo,2,,,Kilifi,0,,Wajir,14,,Wajir,6,,Nyamira,34,,Garissa,0,,,
+Machakos,5,,Kakamega,89,,Kakamega,2,,,Kirinyaga,0,,Bungoma,13,,Nairobi,5,,Narok,31,,Homa Bay,0,,,
+Nyamira,5,,Kwale,85,,Kisumu,2,,,Kitui,0,,Nyamira,11,,Baringo,4,,Garissa,30,,Kajiado,0,,,
+Samburu,5,,Baringo,70,,Makueni,2,,,Lamu,0,,Homa Bay,10,,Garissa,4,,Uasin Gishu,30,,Kericho,0,,,
+Trans Nzoia,5,,Marsabit,67,,Migori,2,,,Marsabit,0,,Lamu,10,,Kericho,4,,Baringo,27,,Kilifi,0,,,
+Vihiga,5,,Kitui,64,,Taita Taveta,2,,,Migori,0,,Samburu,10,,Kirinyaga,4,,Nandi,25,,Kirinyaga,0,,,
+Kitui,4,,Kajiado,62,,Busia,1,,,Nyamira,0,,Vihiga,10,,Makueni,4,,Vihiga,24,,Kitui,0,,,
+Kakamega,3,,Samburu,56,,Kisii,1,,,Nyandarua,0,,Nandi,7,,Taita Taveta,3,,Kisii,20,,Lamu,0,,,
+Kisumu,3,,Murang'a,50,,Kwale,1,,,Siaya,0,,Kwale,6,,Uasin Gishu,3,,Nairobi,20,,Marsabit,0,,,
+Makueni,3,,Kirinyaga,46,,Laikipia,1,,,Taita Taveta,0,,Narok,6,,Kisumu,2,,Makueni,18,,Mombasa,0,,,
+Turkana,3,,Turkana,44,,Lamu,1,,,Tana River,0,,Garissa,0,,Murang'a,2,,Marsabit,16,,Nairobi,0,,,
+Nyeri,1,,Trans Nzoia,32,,Narok,1,,,Tharaka-Nithi,0,,Kirinyaga,0,,Trans Nzoia,2,,Wajir,16,,Nandi,0,,,
+Busia,0,,Makueni,28,,Tana River,1,,,Trans Nzoia,0,,Marsabit,0,,West Pokot,2,,Machakos,12,,Samburu,0,,,
+Garissa,0,,Tana River,24,,Trans Nzoia,1,,,Vihiga,0,,Nairobi,0,,Bungoma,0,,Mombasa,12,,Taita Taveta,0,,,
+Lamu,0,,West Pokot,15,,Wajir,1,,,West Pokot,0,,Tana River,0,,Machakos,0,,Nyeri,12,,Tana River,0,,,
+Taita Taveta,0,,Lamu,12,,West Pokot,0,,,,,,Trans Nzoia,0,,Mombasa,0,,Trans Nzoia,5,,Uasin Gishu,0,,,
+West Pokot,0,,,,,,,,,,,,Uasin Gishu,0,,Nakuru,0,,Kisumu,0,,Wajir,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+County,PSA Oxygen Plants,,,,,,,,,,,,,,,,,,,,,,,,,
+Kisii,3,,,,,,,,,,,,,,,,,,,,,,,,,
+Kitui,1,,,,,,,,,,,,,,,,,,,,,,,,,
+Kajiado,0,,,,,,,,,,,,,,,,,,,,,,,,,
